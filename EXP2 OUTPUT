@@ -1,0 +1,6 @@
+Run 1:
+enter the string to be checked: 10101001
+String is accepted.
+Run 2:
+enter the string to be checked: 10000010
+String is not accepted
